@@ -1,0 +1,3 @@
+#add the file names to be ignored while updating the repository
+##taking all log files to be ignored
+*.log    
